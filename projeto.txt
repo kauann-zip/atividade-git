@@ -1,0 +1,3 @@
+planejamento: ideias 
+desenvolv: execução
+test: correção
